@@ -38,8 +38,31 @@ __git commit -m "Mensagem"__
 <hr>
 
 *Meu primeiro sistema no GIT*
-*Nova alteração no README*
+*Segunda alteração no README*
 *Alteração feita no branch master*
+
+ Você quer saber exatamente o que você alterou, não apenas quais arquivos foram alterados?
+*GIT DIFF*
+*GIT DIFF --CACHED*
+
+*Redefinir HEAD atual para um estado específico*
+**git reset <--soft><--head><--mixed><HEAD~1>** 
+
+Desfazendo alterações em um arquivo específico.
+
+*GIT CHECKOUT HEAD -- nome_arquivo.extensao*
+
+*Criando branch*
+**git branch nome_branch**
+
+*Listando branch**
+**git branch --list**
+
+*Mudar de branch*
+**git checkout nome_branch**
+
+*Deletar branch*
+**git branch -D nome_branch**
 
 
 
