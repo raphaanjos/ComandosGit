@@ -4,6 +4,8 @@
 
 ***[(https://comandosgit.github.io/)]***
 
+<a href="https://docs.github.com/pt/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">GitHub Docs SSH</a>
+
 **1 -** Após a instalação, definir nome de usuário e endereço de e-mail. Importante, pois todos os commits no **Git** utilizaram essas informações, e estará, sem possibilidades de mudanças, unidos aos commits que nos utilizarmos.
 
 ***git config --global user.name "Seu nome"***
