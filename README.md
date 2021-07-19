@@ -66,6 +66,8 @@ Desfazendo alterações em um arquivo específico.
 *Deletar branch*
 **git branch -D nome_branch**
 
+**
+
 
 
 
