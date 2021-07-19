@@ -1,4 +1,4 @@
-sql/backup_sql.sql
-passwords/senhas.txt
+sql/*
+passwords/*
 *.txt
 *.sql
