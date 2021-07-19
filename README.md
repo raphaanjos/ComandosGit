@@ -66,6 +66,11 @@ Desfazendo alterações em um arquivo específico.
 *Deletar branch*
 **git branch -D nome_branch**
 
+*Reverter alguns commits existentes sem perdas de informações sobre alterações* <br>
+*exemplo.: reverter, sem edição.* <br>
+**git revert --no-edit hash_do_commit_xxxxxxxxxxxxx**
+
+
 
 
 
