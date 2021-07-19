@@ -1,0 +1,4 @@
+sql/backup_sql.sql
+passwords/senhas.txt
+*.txt
+*.sql
